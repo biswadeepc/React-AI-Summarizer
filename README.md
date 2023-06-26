@@ -1,0 +1,1 @@
+This react application summarizes any text or URL using the Rapid API summarizer service
